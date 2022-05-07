@@ -1,2 +1,2 @@
-# html-css_study
-Some results of what im learned and what im learning about html5 and css3
+# Study results about Html5 and css3 
+Some results of what i learned and what im learning about html5 and css3
